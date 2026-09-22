@@ -122,10 +122,4 @@ All techniques and methodologies described in this repository are intended for u
 
 ---
 
-## License
-
-MIT License — see [LICENSE](./LICENSE) for details.
-
----
-
 *If you find this useful, a ⭐ on the repo is appreciated.*
